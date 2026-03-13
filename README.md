@@ -1,4 +1,4 @@
-# prawcessor
+# pRAWcessor
 
 cli tool to convert raw files to jpg/png 
 
