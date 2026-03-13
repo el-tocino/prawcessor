@@ -1,3 +1,5 @@
+![Alt Text](prawcessor.jpg "Prawcessor logo")
+
 # pRAWcessor
 
 cli tool to convert raw files to jpg/png 
