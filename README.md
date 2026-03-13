@@ -1,4 +1,4 @@
-![Alt Text](prawcessor.jpg "Prawcessor logo")
+![Alt Text](prawcessor500.jpg "Prawcessor logo")
 
 # pRAWcessor
 
