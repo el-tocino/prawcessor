@@ -6,7 +6,7 @@ cli tool to convert raw files to jpg/png
 
 Based on exiv2 and libraw.  
 
-Meant to mimic ufraw, but with support for current RAW types (CR3, etc)
+Meant to mimic ufraw-cli, but with support for current RAW types (CR3, etc)
 
 ## requirements
 
